@@ -3,8 +3,8 @@
 <body>
 </body
 <style>
-	<red>
-	</red>
+  <yellow>
+  </yellow>
 </style>
 // review code add css
 <colour>
